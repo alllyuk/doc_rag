@@ -6,7 +6,7 @@
 ## Последовательность действий по запуску сервиса
 
 1. Сохраняем репозиторий локально:
-`git clone https://github.com/dzaripov/doc_rag`
+`git clone https://github.com/alllyuk/doc_rag`
 
 2. Устанавливаем зависимости
 `pip install -r requirements.txt`
